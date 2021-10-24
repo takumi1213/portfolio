@@ -1,0 +1,16 @@
+
+body{
+  background-color: black;
+  color: white;
+}
+
+img {
+  height: 300px;
+  width: 275px;
+  object-fit: cover;
+}
+
+.list-group-item{
+  background-color: black;
+}
+
